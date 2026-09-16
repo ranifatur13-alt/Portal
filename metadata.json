@@ -1,0 +1,6 @@
+{
+  "name": "Portal Media Digital",
+  "description": "Portal berita dan media digital independen menyajikan warta terkini, liputan mendalam, opini, podcast, dan jurnalisme publik.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
